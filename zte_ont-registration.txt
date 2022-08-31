@@ -30,3 +30,7 @@ onu 1 type ZTEG-F620 sn GNXS01208DA8
 
 
 GNXS01208DA8
+af
+szdg
+dshgsd
+sdg
